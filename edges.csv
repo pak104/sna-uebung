@@ -1,0 +1,6 @@
+from,to,weight,relation
+SVDW,DH,3,1
+JH,NAB,2,1
+CB,BW,3,1
+JH,DH,3,2
+BW,NAB,2,1

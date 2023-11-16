@@ -1,20 +1,24 @@
-name,id,partei
-Lars Klingbeil,lk,SPD
-Ursula von der Leyen,uvdl,CDU
-Norbert Röttgen,nr,CDU
-Sahra Wagenknecht,sw,LINKE
-Constanze Stelzenmüller,cs,NA
-Christian Lindner,cl,FDP
-Karl Schlögel,ks,NA
-Ljudmyla Melnyk,lm,NA
-Kristina Dunz,kd,NA
-Egils Levits,el,NA
-Annalena Baerbock,ab,GRÜNEN
-Frans Timmermans,ft,NA
-Andrij Melnyk,am,NA
-Alexander Graf Lambsdorff,agl,FDP
-Egon Ramms,er,NA
-Robert Habeck,rh,GRÜNEN
-Claudia Major,cm,NA
-Katja Petrowskaja,kp,NA
-Roderich Kiesewetter,rw,CDU
+name,id,partei,type,ep
+Lars Klingbeil,lk,SPD,1,NA
+Ursula von der Leyen,uvdl,CDU,1,NA
+Norbert Röttgen,nr,CDU,1,NA
+Sahra Wagenknecht,sw,LINKE,1,NA
+Constanze Stelzenmüller,cs,NA,1,NA
+Christian Lindner,cl,FDP,1,NA
+Karl Schlögel,ks,NA,1,NA
+Ljudmyla Melnyk,lm,NA,1,NA
+Kristina Dunz,kd,NA,1,NA
+Egils Levits,el,NA,1,NA
+Annalena Baerbock,ab,GRÜNEN,1,NA
+Frans Timmermans,ft,NA,1,NA
+Andrij Melnyk,am,NA,1,NA
+Alexander Graf Lambsdorff,agl,FDP,1,NA
+Egon Ramms,er,NA,1,NA
+Robert Habeck,rh,GRÜNEN,1,NA
+Claudia Major,cm,NA,1,NA
+Katja Petrowskaja,kp,NA,1,NA
+Roderich Kiesewetter,rw,CDU,1,NA
+Folge 500,500,NA,2,500
+Folge 501,501,NA,2,501
+Folge 502,502,NA,2,502
+Folge 503,503,NA,2,503

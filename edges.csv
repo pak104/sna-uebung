@@ -1,0 +1,11 @@
+from,to,weight,relation
+PK,EK,3,1
+PK,CK,3,2
+PK,SG,2,3
+PK,EM,1,3
+EK,PK,3,1
+EK,CK,3,1
+CK,PK,3,2
+CK,EK,3,1
+SG,PK,2,3
+EM,PK,1,3

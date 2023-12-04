@@ -1,0 +1,11 @@
+from,to
+PK,EK
+PK,CK
+PK,SG
+PK,EM
+EK,PK
+EK,CK
+CK,PK
+CK,EK
+SG,PK
+EM,PK

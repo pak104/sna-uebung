@@ -1,0 +1,54 @@
+id,name,type,sex,country,year,success,duration
+a,Belgica-Expedition,2,NA,be,1897,1,26
+adrger,Adrien de Gerlache de Gomery,1,1,be,NA,NA,NA
+geolec,Georges Lecointe,1,1,be,NA,NA,NA
+roaamu,Roald Amundsen,1,1,no,NA,NA,NA
+henarc,Henryk Arctowski,1,1,pl,NA,NA,NA
+emidan,Émile Danco,1,1,be,NA,NA,NA
+emirac,Emil Racoviță,1,1,ro,NA,NA,NA
+frecoo,Frederick A. Cook,1,1,us,NA,NA,NA
+antdob,Antoni Bolesław Dobrowolski,1,1,pl,NA,NA,NA
+julmel,Jules Melaerts,1,1,be,NA,NA,NA
+hensom,Henri Somers,1,1,be,NA,NA,NA
+maxrys,Max van Rysselberghe,1,1,be,NA,NA,NA
+loumic,Louis Michotte,1,1,be,NA,NA,NA
+adatol,Adam Tollefsen,1,1,no,NA,NA,NA
+ludjoh,Ludvig-Hjalmar Johansen,1,1,no,NA,NA,NA
+engknu,Engebret Knudsen,1,1,no,NA,NA,NA
+gusduf,Gustave-Gaston Dufour,1,1,be,NA,NA,NA
+jeamir,Jean Van Mirlo,1,1,be,NA,NA,NA
+carwie,Carl-August Wiencke ,1,1,no,NA,NA,NA
+johkor,Johan Koren,1,1,no,NA,NA,NA
+beroy,Belgisches Königshaus,3,NA,be,NA,NA,NA
+b,Southern-Cross-Expedition,2,NA,no,1898,1,18
+carbor,Carsten Borchgrevink,1,1,no,NA,NA,NA
+louber,Louis Bernacchi,1,1,au,NA,NA,NA
+wilcol,William Colbeck,1,1,gb,NA,NA,NA
+nichan,Nicolai Hanson,1,1,no,NA,NA,NA
+herklo,Herluf Kløvstad,1,1,no,NA,NA,NA
+hugeva,Hugh Evans,1,1,gb,NA,NA,NA
+antfou,Anton Fougner,1,1,no,NA,NA,NA
+kolell,Kolbein Ellefsen,1,1,no,NA,NA,NA
+olemus,Ole Must,1,1,no,NA,NA,NA
+persav,Per Savio,1,1,no,NA,NA,NA
+berjen,Bernhard Jensen,1,1,no,NA,NA,NA
+jorpet,Jørgen Petersen,1,1,no,NA,NA,NA
+hanhan,Hans Hansen,1,1,no,NA,NA,NA
+chrols,Christian Olsen,1,1,no,NA,NA,NA
+juljoh,Julius Johannesen,1,1,no,NA,NA,NA
+hanuli,Hans Ulis,1,1,no,NA,NA,NA
+larand,Lars Andersen,1,1,se,NA,NA,NA
+klekle,Klemet Klemetsen,1,1,no,NA,NA,NA
+johjah,Johannes Jahnsen,1,1,no,NA,NA,NA
+framag,Franz Magnussen,1,1,no,NA,NA,NA
+oscbja,Oscar M. Bjarko,1,1,no,NA,NA,NA
+ingsam,Ingvard Samuelsen,1,1,no,NA,NA,NA
+hanjoh,Hans J. Johnson,1,1,no,NA,NA,NA
+johand,Johan A. Andersen,1,1,no,NA,NA,NA
+ololar,Olof Larsen,1,1,no,NA,NA,NA
+larlar,Lars A. Larsen,1,1,no,NA,NA,NA
+adokar,Adolf M. Karlsen,1,1,no,NA,NA,NA
+axejoh,Axel Johansen,1,1,no,NA,NA,NA
+carbee,Carl H. J. Been,1,1,no,NA,NA,NA
+karbry,Karl Brynhildsen,1,1,no,NA,NA,NA
+geonew,Sir George Newnes ,3,1,gb,NA,NA,NA

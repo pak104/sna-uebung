@@ -1,0 +1,107 @@
+id,name,type,sex,country,year,success,duration
+a,Belgica-Expedition,2,NA,be,1897,1,26
+adrger,Adrien de Gerlache de Gomery,1,1,be,NA,NA,NA
+geolec,Georges Lecointe,1,1,be,NA,NA,NA
+roaamu,Roald Amundsen,1,1,no,NA,NA,NA
+henarc,Henryk Arctowski,1,1,pl,NA,NA,NA
+emidan,Émile Danco,1,1,be,NA,NA,NA
+emirac,Emil Racoviță,1,1,ro,NA,NA,NA
+frecoo,Frederick A. Cook,1,1,us,NA,NA,NA
+antdob,Antoni Bolesław Dobrowolski,1,1,pl,NA,NA,NA
+julmel,Jules Melaerts,1,1,be,NA,NA,NA
+hensom,Henri Somers,1,1,be,NA,NA,NA
+maxrys,Max van Rysselberghe,1,1,be,NA,NA,NA
+loumic,Louis Michotte,1,1,be,NA,NA,NA
+adatol,Adam Tollefsen,1,1,no,NA,NA,NA
+ludjoh,Ludvig-Hjalmar Johansen,1,1,no,NA,NA,NA
+engknu,Engebret Knudsen,1,1,no,NA,NA,NA
+gusduf,Gustave-Gaston Dufour,1,1,be,NA,NA,NA
+jeamir,Jean Van Mirlo,1,1,be,NA,NA,NA
+carwie,Carl-August Wiencke ,1,1,no,NA,NA,NA
+johkor,Johan Koren,1,1,no,NA,NA,NA
+beroy,Belgisches Königshaus,3,NA,be,NA,NA,NA
+b,Southern-Cross-Expedition,2,NA,no,1898,1,18
+carbor,Carsten Borchgrevink,1,1,no,NA,NA,NA
+louber,Louis Bernacchi,1,1,au,NA,NA,NA
+wilcol,William Colbeck,1,1,gb,NA,NA,NA
+nichan,Nicolai Hanson,1,1,no,NA,NA,NA
+herklo,Herluf Kløvstad,1,1,no,NA,NA,NA
+hugeva,Hugh Evans,1,1,gb,NA,NA,NA
+antfou,Anton Fougner,1,1,no,NA,NA,NA
+kolell,Kolbein Ellefsen,1,1,no,NA,NA,NA
+olemus,Ole Must,1,1,no,NA,NA,NA
+persav,Per Savio,1,1,no,NA,NA,NA
+berjen,Bernhard Jensen,1,1,no,NA,NA,NA
+jorpet,Jørgen Petersen,1,1,no,NA,NA,NA
+hanhan,Hans Hansen,1,1,no,NA,NA,NA
+chrols,Christian Olsen,1,1,no,NA,NA,NA
+juljoh,Julius Johannesen,1,1,no,NA,NA,NA
+hanuli,Hans Ulis,1,1,no,NA,NA,NA
+larand,Lars Andersen,1,1,se,NA,NA,NA
+klekle,Klemet Klemetsen,1,1,no,NA,NA,NA
+johjah,Johannes Jahnsen,1,1,no,NA,NA,NA
+framag,Franz Magnussen,1,1,no,NA,NA,NA
+oscbja,Oscar M. Bjarko,1,1,no,NA,NA,NA
+ingsam,Ingvard Samuelsen,1,1,no,NA,NA,NA
+hanjoh,Hans J. Johnson,1,1,no,NA,NA,NA
+johand,Johan A. Andersen,1,1,no,NA,NA,NA
+ololar,Olof Larsen,1,1,no,NA,NA,NA
+larlar,Lars A. Larsen,1,1,no,NA,NA,NA
+adokar,Adolf M. Karlsen,1,1,no,NA,NA,NA
+axejoh,Axel Johansen,1,1,no,NA,NA,NA
+carbee,Carl H. J. Been,1,1,no,NA,NA,NA
+karbry,Karl Brynhildsen,1,1,no,NA,NA,NA
+geonew,Sir George Newnes ,3,1,gb,NA,NA,NA
+c,Discovery-Expedition,2,NA,gb,1901,1,32
+robsco,Robert Falcon Scott,1,1,gb,NA,NA,NA
+albarm,Albert Armitage,1,1,gb,NA,NA,NA
+charoy,Charles Royds,1,1,gb,NA,NA,NA
+micbar,Michael Barne,1,1,gb,NA,NA,NA
+ernsha,Ernest Shackleton,1,1,gb,NA,NA,NA
+geomul,George Mulock,1,1,gb,NA,NA,NA
+regske,Reginald Skelton,1,1,gb,NA,NA,NA
+regkoe,Reginald Koettlitz,1,1,gb,NA,NA,NA
+edwwil,Edward Adrian Wilson,1,1,gb,NA,NA,NA
+thohod,Thomas Vere Hodgson,1,1,gb,NA,NA,NA
+harfer,Hartley Ferrar,1,1,gb,NA,NA,NA
+thofea,Thomas Feather,1,1,gb,NA,NA,NA
+jamdel,James Dellbridge,1,1,gb,NA,NA,NA
+fredai,Fred Dailey,1,1,gb,NA,NA,NA
+chafor,Charles Reginald Ford,1,1,gb,NA,NA,NA
+jaccro,Jacob Cross,1,1,gb,NA,NA,NA
+edgeva,Edgar Evans,1,1,gb,NA,NA,NA
+wilsmy,William Smythe,1,1,gb,NA,NA,NA
+davall,David Allan,1,1,gb,NA,NA,NA
+thoken,Thomas Kennar,1,1,gb,NA,NA,NA
+wilmac,William MacFarlane,1,1,gb,NA,NA,NA
+gilsco,Gilbert Scott,1,1,gb,NA,NA,NA
+artbli,Arthur Harry Blissett,1,1,gb,NA,NA,NA
+wilcla,William Clarke,1,1,gb,NA,NA,NA
+clahar,Clarence Hare,1,1,gb,NA,NA,NA
+horbuc,Horace Edgar Buckridge,1,1,gb,NA,NA,NA
+artpil,Arthur Edward Pilbeam,1,1,gb,NA,NA,NA
+wilhea,William Loftouse Heald,1,1,gb,NA,NA,NA
+jamdel1,James Dell,1,1,gb,NA,NA,NA
+frawil,Frank Wild,1,1,gb,NA,NA,NA
+thowil,Thomas Soulsb Williamson,1,1,gb,NA,NA,NA
+geocro,George Beaver Croucher,1,1,gb,NA,NA,NA
+ernjoy,Ernest Joyce,1,1,gb,NA,NA,NA
+thocre,Thomas Crean,1,1,ie,NA,NA,NA
+jeshan,Jesse Handsley,1,1,gb,NA,NA,NA
+wilwel,William Isaac Weller,1,1,gb,NA,NA,NA
+wilpet,William Peters,1,1,gb,NA,NA,NA
+johwal,John Dargie Walker,1,1,gb,NA,NA,NA
+jamdun,James Duncan,1,1,gb,NA,NA,NA
+henbre,Henry B. Brett,1,1,gb,NA,NA,NA
+geovin,George Vince,1,1,gb,NA,NA,NA
+chabon,Charles Bonner,1,1,gb,NA,NA,NA
+willas,William Lashly,1,1,gb,NA,NA,NA
+artqua,Arthur Lester Quartley,1,1,gb,NA,NA,NA
+thowhi,Thomas Whitfield,1,1,gb,NA,NA,NA
+fraplu,Frank Plumley,1,1,gb,NA,NA,NA
+wilpag,William Page,1,1,gb,NA,NA,NA
+wilhub,William Hubert,1,1,gb,NA,NA,NA
+brgov,Britische Regierung,3,NA,gb,NA,NA,NA
+llelon,Llewellyn W. Longstaff,3,1,gb,NA,NA,NA
+rgs,Royal Geographical Society,3,NA,gb,NA,NA,NA
+alfhar,Alfred Harmsworth,3,1,gb,NA,NA,NA
